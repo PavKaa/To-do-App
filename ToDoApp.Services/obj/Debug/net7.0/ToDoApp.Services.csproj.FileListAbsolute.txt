@@ -1,0 +1,17 @@
+C:\Users\VIP`s\source\repos\ToDoApp\ToDoApp.Services\bin\Debug\net7.0\ToDoApp.Services.deps.json
+C:\Users\VIP`s\source\repos\ToDoApp\ToDoApp.Services\bin\Debug\net7.0\ToDoApp.Services.dll
+C:\Users\VIP`s\source\repos\ToDoApp\ToDoApp.Services\bin\Debug\net7.0\ToDoApp.Services.pdb
+C:\Users\VIP`s\source\repos\ToDoApp\ToDoApp.Services\bin\Debug\net7.0\ToDoApp.DAL.dll
+C:\Users\VIP`s\source\repos\ToDoApp\ToDoApp.Services\bin\Debug\net7.0\ToDoApp.Domain.dll
+C:\Users\VIP`s\source\repos\ToDoApp\ToDoApp.Services\bin\Debug\net7.0\ToDoApp.DAL.pdb
+C:\Users\VIP`s\source\repos\ToDoApp\ToDoApp.Services\bin\Debug\net7.0\ToDoApp.Domain.pdb
+C:\Users\VIP`s\source\repos\ToDoApp\ToDoApp.Services\obj\Debug\net7.0\ToDoApp.Services.csproj.AssemblyReference.cache
+C:\Users\VIP`s\source\repos\ToDoApp\ToDoApp.Services\obj\Debug\net7.0\ToDoApp.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VIP`s\source\repos\ToDoApp\ToDoApp.Services\obj\Debug\net7.0\ToDoApp.Services.AssemblyInfoInputs.cache
+C:\Users\VIP`s\source\repos\ToDoApp\ToDoApp.Services\obj\Debug\net7.0\ToDoApp.Services.AssemblyInfo.cs
+C:\Users\VIP`s\source\repos\ToDoApp\ToDoApp.Services\obj\Debug\net7.0\ToDoApp.Services.csproj.CoreCompileInputs.cache
+C:\Users\VIP`s\source\repos\ToDoApp\ToDoApp.Services\obj\Debug\net7.0\ToDoApp.Services.csproj.CopyComplete
+C:\Users\VIP`s\source\repos\ToDoApp\ToDoApp.Services\obj\Debug\net7.0\ToDoApp.Services.dll
+C:\Users\VIP`s\source\repos\ToDoApp\ToDoApp.Services\obj\Debug\net7.0\refint\ToDoApp.Services.dll
+C:\Users\VIP`s\source\repos\ToDoApp\ToDoApp.Services\obj\Debug\net7.0\ToDoApp.Services.pdb
+C:\Users\VIP`s\source\repos\ToDoApp\ToDoApp.Services\obj\Debug\net7.0\ref\ToDoApp.Services.dll

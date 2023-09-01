@@ -1,0 +1,13 @@
+﻿@model IEnumerable<ToDoApp.Domain.Entity.TaskEntity>
+
+@{
+	ViewBag.Title = "title";
+	Layout = "_Layout";
+}
+
+@foreach(var task in Model)
+{
+	<p>@task.Name</p>
+	<p>@task.Description</p>
+	<p>@task.Priority</p>
+}

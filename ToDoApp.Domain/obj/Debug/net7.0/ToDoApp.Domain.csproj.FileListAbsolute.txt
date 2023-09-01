@@ -1,0 +1,12 @@
+C:\Users\VIP`s\source\repos\ToDoApp\ToDoApp.Domain\bin\Debug\net7.0\ToDoApp.Domain.deps.json
+C:\Users\VIP`s\source\repos\ToDoApp\ToDoApp.Domain\bin\Debug\net7.0\ToDoApp.Domain.dll
+C:\Users\VIP`s\source\repos\ToDoApp\ToDoApp.Domain\bin\Debug\net7.0\ToDoApp.Domain.pdb
+C:\Users\VIP`s\source\repos\ToDoApp\ToDoApp.Domain\obj\Debug\net7.0\ToDoApp.Domain.csproj.AssemblyReference.cache
+C:\Users\VIP`s\source\repos\ToDoApp\ToDoApp.Domain\obj\Debug\net7.0\ToDoApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VIP`s\source\repos\ToDoApp\ToDoApp.Domain\obj\Debug\net7.0\ToDoApp.Domain.AssemblyInfoInputs.cache
+C:\Users\VIP`s\source\repos\ToDoApp\ToDoApp.Domain\obj\Debug\net7.0\ToDoApp.Domain.AssemblyInfo.cs
+C:\Users\VIP`s\source\repos\ToDoApp\ToDoApp.Domain\obj\Debug\net7.0\ToDoApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\VIP`s\source\repos\ToDoApp\ToDoApp.Domain\obj\Debug\net7.0\ToDoApp.Domain.dll
+C:\Users\VIP`s\source\repos\ToDoApp\ToDoApp.Domain\obj\Debug\net7.0\refint\ToDoApp.Domain.dll
+C:\Users\VIP`s\source\repos\ToDoApp\ToDoApp.Domain\obj\Debug\net7.0\ToDoApp.Domain.pdb
+C:\Users\VIP`s\source\repos\ToDoApp\ToDoApp.Domain\obj\Debug\net7.0\ref\ToDoApp.Domain.dll
